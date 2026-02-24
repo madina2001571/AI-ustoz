@@ -1,0 +1,52 @@
+[MAVZU: TO BE FE'LI]
+To be fe'lining asosiy qoidalari va mohiyati.
+To be fe'li o'zbek tiliga bo'lmoq, hisoblanmoq yoki -dir deb tarjima qilinadi.
+Ingliz tilida gapda fe'l bo'lishi shart, shuning uchun harakat yo'q gaplarda to be ishlatiladi.
+Hozirgi zamonda to be fe'lining 3 ta shakli bor: am, is, are.
+I olmoshi uchun faqat am ishlatiladi. Masalan: I am a student.
+He, she, it olmoshlari uchun is ishlatiladi. Masalan: He is smart.
+We, you, they olmoshlari uchun are ishlatiladi. Masalan: They are doctors.
+Hozirgi zamon inkor shakli: am not, is not (isn't), are not (aren't).
+Savol shaklida am, is, are egadan oldinga o'tadi. Masalan: Are you ready?
+O'tgan zamonda to be fe'li was va were shakllariga ega. I, he, she, it uchun was, qolganlar uchun were.
+Kelajak zamonda hamma shaxslar uchun will be ishlatiladi.
+To be fe'li kasblar, sifatlar, yosh, millat va joylashuvni aytishda ishlatiladi.
+Misol: I am a teacher. Men o'qituvchiman.
+Misol: She is beautiful. U chiroyli.
+Misol: It is five o'clock. Vaqt besh bo'ldi.
+Misol: They are in the garden. Ular bog'da.
+Misol: I was at home. Men uyda edim.
+Misol: Everything will be fine. Hammasi yaxshi bo'ladi.
+
+[MAVZU: PRESENT SIMPLE - HOZIRGI ODATIY ZAMON]
+Present Simple zamoni odatiy, doimiy takrorlanadigan ish-harakatlar va umumiy haqiqatlar uchun ishlatiladi.
+I, we, you, they uchun fe'lning o'zi ishlatiladi. Masalan: I play football.
+He, she, it (uchinchi shaxs) uchun fe'lga -s yoki -es qo'shimchasi qo'shiladi. Masalan: He plays football.
+Present Simple zamonida inkor shaklini yasash uchun don't va doesn't yordamchi fe'llari ishlatiladi.
+I, we, you, they uchun don't ishlatiladi. Masalan: I don't like milk.
+He, she, it uchun doesn't ishlatiladi va fe'ldagi -s qo'shimchasi tushib qoladi. Masalan: He doesn't like milk.
+Savol shaklini yasash uchun Do va Does egadan oldinga o'tadi.
+Do you study English? Siz ingliz tilini o'rganasizmi?
+Does he work in an office? U idorada ishlaydimi?
+Present Simple bilan ko'pincha: always (doim), usually (odatda), often (tez-tez), sometimes (ba'zan), never (hech qachon) so'zlari ishlatiladi.
+Umumiy haqiqatlar: Water freezes at zero degrees. Suv nol darajada muzlaydi.
+Umumiy haqiqatlar: The sun shines during the day. Quyosh kunduzi porlaydi.
+Kasb egalari: Doctors treat sick people. Shifokorlar kasallarni davolashadi.
+Kasb egalari: Farmers grow vegetables. Fermerlar sabzavot yetishtirishadi.
+Misol: I always brush my teeth. Men doim tishlarimni tozalayman.
+Misol: She goes shopping every Saturday. U har shanba bozorlikka boradi.
+
+[MAVZU: LUG'AT VA IBORALAR]
+The car is fast. Mashina tez.
+The house is old. Uy eski.
+The movie is boring. Kino zerikarli.
+The exam is difficult. Imtihon qiyin.
+I am hungry. Qornim och.
+I am tired. Charchadim.
+He is brave. U jasur.
+The food is delicious. Ovqat mazali.
+The mountain is high. Tog' baland.
+I am proud of you. Men siz bilan faxrlanaman.
+He is afraid of dogs. U kuchuklardan qo'rqadi.
+She is interested in art. U san'atga qiziqadi.
+We are good at English. Biz ingliz tilida yaxshimiz.

@@ -1,0 +1,32 @@
+{
+    "ism": null,
+    "oxirgi_mavzu": "tobeni ma'lumot",
+    "savollar_soni": 13,
+    "muvaffaqiyat_balli": 6,
+    "xatolar_daftari": [
+        {
+            "savol": "misol ayt",
+            "vaqt": "2026-02-24 09:39"
+        },
+        {
+            "savol": "misol",
+            "vaqt": "2026-02-24 09:40"
+        },
+        {
+            "savol": "misol",
+            "vaqt": "2026-02-24 09:41"
+        },
+        {
+            "savol": "c:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python314\\python.exe \"c:/Users/User/Desktop/pythondan AI ga/AI_Ustoz_project/python.py\"",
+            "vaqt": "16:19"
+        },
+        {
+            "savol": "tobe ni tushuntir",
+            "vaqt": "16:31"
+        },
+        {
+            "savol": "to be ni tushuntir",
+            "vaqt": "16:31"
+        }
+    ]
+}
