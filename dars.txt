@@ -35,6 +35,11 @@ Kasb egalari: Doctors treat sick people. Shifokorlar kasallarni davolashadi.
 Kasb egalari: Farmers grow vegetables. Fermerlar sabzavot yetishtirishadi.
 Misol: I always brush my teeth. Men doim tishlarimni tozalayman.
 Misol: She goes shopping every Saturday. U har shanba bozorlikka boradi.
+Present Simple zamonida uchinchi shaxs birlikda, ya'ni he, she va it olmoshlari bilan kelgan fe'llarga -s yoki -es qo'shimchasi qo'shiladi. 
+Masalan: He plays football (U futbol o'ynaydi). She works at school (U maktabda ishlaydi). It eats meat (U go'sht yeydi).
+Agar fe'l o, ch, sh, x harflari bilan tugasa, -es qo'shimchasi qo'shiladi. Masalan: He goes (U boradi), She watches (U tomosha qiladi).
+Inkor va so'roq gaplarda Does yordamchi fe'li kelganligi sababli, fe'lning o'zidagi -s qo'shimchasi tushib qoladi.
+Masalan: Does he play football? (U futbol o'ynaydimi?) He does not play football (U futbol o'ynamaydi).
 
 [MAVZU: LUG'AT VA IBORALAR]
 The car is fast. Mashina tez.
@@ -50,3 +55,29 @@ I am proud of you. Men siz bilan faxrlanaman.
 He is afraid of dogs. U kuchuklardan qo'rqadi.
 She is interested in art. U san'atga qiziqadi.
 We are good at English. Biz ingliz tilida yaxshimiz.
+
+
+### PAST SIMPLE (O'tgan zamon)
+Past Simple o'tgan zamonda tugallangan ish-harakatlar uchun ishlatiladi.
+To'g'ri fe'llarga -ed qo'shimchasi qo'shiladi, masalan: I watched a movie (Men kino ko'rdim).
+Noto'g'ri fe'llar esa shaklini butunlay o'zgartiradi, masalan: go - went, buy - bought. 
+Savol va inkor gaplarda Did yordamchi fe'li ishlatiladi. Did ishlatilganda fe'l o'zining asosiy shakliga qaytadi.
+Masalan: I did not go (Men bormadim). Did you see? (Ko'rdingizmi?).
+
+### FUTURE SIMPLE (Kelajak zamon)
+Future Simple kelajakda sodir bo'ladigan ish-harakatlar uchun ishlatiladi.
+Bu zamonning yordamchi fe'li Will hisoblanadi va u barcha shaxslar uchun bir xil.
+Masalan: I will call you (Men sizga qo'ng'iroq qilaman). She will come tomorrow (U ertaga keladi).
+Inkor shaklida will not yoki qisqacha won't ishlatiladi. Masalan: I won't go (Men bormayman).
+
+### PRESENT CONTINUOUS (Hozirgi davomli zamon)
+Present Continuous aynan hozirgi vaqtda sodir bo'layotgan ish-harakatlar uchun ishlatiladi.
+Formulasi: am/is/are + fe'l + ing qo'shimchasi.
+Masalan: I am reading a book (Men kitob o'qiyapman). They are playing (Ular o'ynashyapti).
+Kalit so'zlari: now (hozir), at the moment (ayni damda).
+
+### MODAL FE'LLAR: CAN (Qobiliyat)
+Can modal fe'li biror ishni bajara olish qobiliyatini yoki imkoniyatini bildiradi.
+Masalan: I can speak English (Men inglizcha gapira olaman). 
+Inkor shakli: cannot yoki can't. Masalan: She can't swim (U suza olmaydi).
+Savol shaklida Can egadan oldinga o'tadi: Can you help me? (Menga yordam bera olasizmi?).
